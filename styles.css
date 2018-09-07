@@ -44,8 +44,24 @@ h1{
     width: 30%;
     background-color: #454647;
     color: #fff;
+    min-height: 500px;
 }
 
 .main p{
     margin: 20px;
+}
+
+.blog-post{
+    margin: 10px;
+    background-color: #fff;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    padding: 10px;
+
+}
+
+img{
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 5px;
 }
